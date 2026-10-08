@@ -1,7 +1,5 @@
 # Investor Search
 
-[![skills.sh](https://skills.sh/b/verun-ai/investor-search)](https://skills.sh/verun-ai/investor-search)
-
 Build a sourced list of the investors in a market — family offices, VCs, PE firms and
 angels — and say honestly how complete it is.
 
