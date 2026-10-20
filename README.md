@@ -65,6 +65,11 @@ Research only — **not investment advice**.
 Some agents need their own build, because they deliver files differently or have their own
 store. Those are packaged separately — see [bcpp.io](https://www.bcpp.io).
 
+## Support
+
+Questions, bugs or a list that came back wrong: open an issue at
+[github.com/verun-ai/investor-search/issues](https://github.com/verun-ai/investor-search/issues).
+
 ## Licence
 
 MIT-0. See LICENSE.
